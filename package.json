@@ -1,0 +1,32 @@
+{
+  "name": "ng-w-selected",
+  "version": "0.1.0",
+  "description": "Angular directive to select the input value when is on focus",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduatro/ng-w-selected.git"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "selected",
+    "input"
+  ],
+  "author":{
+    "name": "Eduardo Villarroel",
+    "email": "c.eduatro@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduatro/ng-w-selected/issues"
+  },
+  "homepage": "https://github.com/eduatro/ng-w-selected#readme",
+  "devDependencies": {
+    "@angular/core": "^5.0.0",
+    "typescript": "^2.2.0"
+  }
+}
